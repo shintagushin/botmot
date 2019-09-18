@@ -1,0 +1,15 @@
+C:\Users\taguchs\source\repos\botmot\botmot\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\taguchs\source\repos\botmot\botmot\bin\Debug\netcoreapp2.1\botmot.deps.json
+C:\Users\taguchs\source\repos\botmot\botmot\bin\Debug\netcoreapp2.1\botmot.runtimeconfig.json
+C:\Users\taguchs\source\repos\botmot\botmot\bin\Debug\netcoreapp2.1\botmot.runtimeconfig.dev.json
+C:\Users\taguchs\source\repos\botmot\botmot\bin\Debug\netcoreapp2.1\botmot.dll
+C:\Users\taguchs\source\repos\botmot\botmot\bin\Debug\netcoreapp2.1\botmot.pdb
+C:\Users\taguchs\source\repos\botmot\botmot\obj\Debug\netcoreapp2.1\botmot.csprojAssemblyReference.cache
+C:\Users\taguchs\source\repos\botmot\botmot\obj\Debug\netcoreapp2.1\botmot.csproj.CoreCompileInputs.cache
+C:\Users\taguchs\source\repos\botmot\botmot\obj\Debug\netcoreapp2.1\botmot.RazorAssemblyInfo.cache
+C:\Users\taguchs\source\repos\botmot\botmot\obj\Debug\netcoreapp2.1\botmot.RazorAssemblyInfo.cs
+C:\Users\taguchs\source\repos\botmot\botmot\obj\Debug\netcoreapp2.1\botmot.AssemblyInfoInputs.cache
+C:\Users\taguchs\source\repos\botmot\botmot\obj\Debug\netcoreapp2.1\botmot.AssemblyInfo.cs
+C:\Users\taguchs\source\repos\botmot\botmot\obj\Debug\netcoreapp2.1\botmot.RazorTargetAssemblyInfo.cache
+C:\Users\taguchs\source\repos\botmot\botmot\obj\Debug\netcoreapp2.1\botmot.dll
+C:\Users\taguchs\source\repos\botmot\botmot\obj\Debug\netcoreapp2.1\botmot.pdb

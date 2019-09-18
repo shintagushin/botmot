@@ -1,0 +1,18 @@
+{
+    "name": "Botmot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "db451440-d9bb-11e9-9430-2f56c418b094",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\Users\\taguchs\\source\\repos\\botmot\\botmot\\Botmot.bot"
+}
