@@ -16,8 +16,8 @@
     </Content>
   </ItemGroup>
 
-  <Target Name="PrePublishTarget" AfterTargets="Publish">
-    <Exec Command="dotnet run"/>
-  </Target>
-
 </Project>
+
+<Target Name="PrePublishTarget" AfterTargets="Publish">
+  <Exec Command="dotnet run"/>
+</Target>
