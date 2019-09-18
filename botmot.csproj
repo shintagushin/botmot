@@ -10,14 +10,14 @@
     <PackageReference Include="Microsoft.Bot.Builder.Integration.AspNet.Core" Version="4.5.1" />
   </ItemGroup>
 
-    <ItemGroup>
+  <ItemGroup>
     <Content Update="appsettings.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
 
-</Project>
+  <Target Name="PrePublishTarget" AfterTargets="Publish">
+    <Exec Command="dotnet run"/>
+  </Target>
 
-<Target Name="PrePublishTarget" AfterTargets="Publish">
-  <Exec Command="dotnet run"/>
-</Target>
+</Project>
